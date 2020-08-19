@@ -32,7 +32,7 @@ def aoh_lookup(aoh, row, key)
         {:name=>"Kate Gompert", :occupation=>"None"},
         {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
   
-  nested_array[0][:name]
+  nested_array[2][:name]
 end
 
 def aoh_update(aoh, row, key, new_value)
