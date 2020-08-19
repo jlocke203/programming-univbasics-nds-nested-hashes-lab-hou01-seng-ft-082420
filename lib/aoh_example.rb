@@ -16,11 +16,7 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   nested_array = [
-  [DON_G, "Don Gately", "Live-in Staff"],
-  [JOELLE_VD, "Joelle van Dyne", "Radio Personality"],
-  [PAT_M, "Pat Monteseian", "Staff"],
-  [KATE_G, "Kate Gompert", "None"],
-  [BRUCE_G, "Bruce Green", "Fan of Mildred"]
+  
   ]
 end
 
