@@ -46,4 +46,5 @@ def aoh_update(aoh, row, key, new_value)
         {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
   
   nested_array[1][:name] = "new_value"
+  nested_array
 end
